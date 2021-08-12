@@ -1,4 +1,4 @@
-Hi, I’m Gus LeTourneau! I'm an undergrad student studying applied mathematics and computer science at Brown University (class of 2024).
+Hi, I’m Gus! I'm an undergrad student studying applied mathematics and computer science at Brown University (class of 2024).
 
 I have a wide range of interests, but I'm particularly interested in compuational visualization of mathematical models and systems.
 From chaos theory to dynamical change within systems of differential equations, I am fascinated with how the intersection of computers and mathematics 
